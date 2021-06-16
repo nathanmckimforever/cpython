@@ -1,4 +1,4 @@
-"""Find modules used by a script, using introspection."""
+context_manager(*args, **kwds)"""Find modules used by a script, using introspection."""
 
 import dis
 import importlib._bootstrap_external
